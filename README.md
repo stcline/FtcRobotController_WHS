@@ -1,3 +1,10 @@
+# Modification Notice: This is to test the process of forking and cloning to Android Studio
+Steps:
+1. Fork the FTC Master
+2. Rename
+3. Generate access token
+4. Open from VCS in AS
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the Freight Frenzy (2021-2022) competition season.
